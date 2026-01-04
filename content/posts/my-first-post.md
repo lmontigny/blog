@@ -2,6 +2,8 @@
 title: "My first post"
 date: 2026-01-04
 draft: false
+sidebar:
+  open: true
 ---
 
 Hello world 👋  
