@@ -2,8 +2,7 @@
 title: "My first post"
 date: 2026-01-04
 draft: false
-sidebar:
-  open: true
+toc: true
 ---
 
 Hello world 👋  
@@ -15,3 +14,6 @@ I’ll write here about:
 - AI Simulation
 - Compilers (LLVM / MLIR)
 - Performance & systems
+
+  # Title
+  ## Tile 1
