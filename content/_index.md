@@ -3,7 +3,7 @@ title: Laurent Montigny
 toc: false
 ---
 
-Welcome, I’m Laurent. 
+Welcome to my blog.
 
 ## What you'll find here
 - **Blog posts** about AI systems, compilers, and infra
