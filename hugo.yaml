@@ -48,4 +48,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/lmontigny/blog/edit/main/"
+    base: "https://github.com/lmontigny/blog/edit/main/content/"
