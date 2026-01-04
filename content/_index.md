@@ -1,9 +1,14 @@
 ---
-title: My Site
+title: Laurent Montigny
 toc: false
 ---
 
-This is the landing page.
+Welcome, I’m Laurent. 
+
+## What you'll find here
+- **Blog posts** about AI systems, compilers, and infra
+- Notes on performance, profiling, distributed training
+- Projects & write-ups
 
 ## Explore
 
@@ -12,6 +17,7 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
+## Start here
+- [Blog posts](/posts/)
+- [About](/about/)
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
