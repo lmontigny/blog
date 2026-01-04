@@ -13,11 +13,5 @@ Welcome to my blog.
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="posts" title="Blog Posts" icon="book-open" >}}
 {{< /cards >}}
-
-## Start here
-- [Blog posts](/posts/)
-- [About](/about/)
-
