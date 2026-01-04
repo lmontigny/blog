@@ -10,7 +10,7 @@ Hello world 👋
 This is my first blog post on **blog.lmontigny.com**.
 
 I’ll write here about:
-- AI infrastructure
+- AI Infrastructure
 - AI Simulation
 - Compilers (LLVM / MLIR)
 - Performance & systems
